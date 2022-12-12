@@ -2,7 +2,9 @@
 
 This algorithm is based off of _Peter Litwinowicz_'s paper _Processing Images and Video for An Impressionist Effect_
 
-!(Image)[./output.png]
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/15256744/206955922-909ba60d-ef04-4899-9812-9e7d5db0c055.png" width="600"/>
+</div>
 
 ## Set up
 
